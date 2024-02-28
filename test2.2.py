@@ -5,3 +5,6 @@ while b!='stop':
     if b!='stop':
         c=c+b+" "
 print(c)
+
+
+
