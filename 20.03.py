@@ -26,3 +26,8 @@ def function3(x):
 
 y=input('введите дату')
 print(function3(y))
+
+
+
+
+
